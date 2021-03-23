@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    font-size: large;
+    font-style: italic;
+    color: crimson;
+    
+}
+main{ background-color:rgb(255, 196, 0) ;
+
+     }
+
+.bienvenue{ font-family:Lucida, Cursive;
+            background-color: rgb(203, 230, 173);
+            font-size: 50px;
+            color: rosybrown;
+            
+
+          }
+.ktiba{      font-family: 'Roboto', sans-serif;
+           font-size: 20px ;
+           padding-left: 50ps;
+           padding-right: -50px;
+           
+           margin-left: 70px;
+           margin-right: -70px;
+
+
+         }         
+.elmekla{ font-family:'Roboto'
+
+         }
+.elmekla:hover{
+    outline: black solid 5px ;
+    outline-offset: -5px;
+          }
+.escalope{font-family:monospace;
+          font-size: 30px;
+          color: blueviolet;
+         
+
+}
+#centre{
+        text-align: center ;
+       }
+
+.apropos{background-image: url(http://www.fontriver.com/i/fonts/fast_food_icons/fast_food_icons_specimen.jpg);
+
+}
+.ktiba2{
+        color:brown;
+        text-align: center ;
+        
+}
